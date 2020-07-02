@@ -1,11 +1,19 @@
-# fullcycle3.0
+# Maratona Full Cycle 3.0
 
 ## Challenges
 ### 1. Hello Full Cycle utilizando Golang e Docker ~ 1h - [Link](https://maratona.fullcycle.com.br/desafios/desafios-novo/)
+[Code](https://github.com/armbrustsamuel/fullcycle3.0/tree/master/desafio-1)
 
 ### 2. Hello Full Cycle utilizando Buffalo ~ 3h - [Link](https://maratona.fullcycle.com.br/desafios/hello-world-utilizando-golang-e-buffalo/)
+[Code](https://github.com/armbrustsamuel/fullcycle3.0/tree/master/desafio-2)
+
+#### Requirements
+```bash
+buffalo new <app-name>
+```
 
 ### 3. Endpoint serverless que realiza uma operação de soma ~ 4h with issues - [Link](https://maratona.fullcycle.com.br/desafios/endpoint-serverless-que-realiza-uma-operacao-de-so/)
+[Code](https://github.com/armbrustsamuel/fullcycle3.0/tree/master/desafio-3)
 
 #### Requirements
 
