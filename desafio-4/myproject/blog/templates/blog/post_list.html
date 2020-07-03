@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Blog Lives FullCycle3.0</title>
+    </head>
+    <body>
+        <div>
+            <h1>Blog Lives FullCycle3.0</h1>
+        </div>
+        
+        {% for post in posts %}
+            <div>
+                <h2><a href="{{ post.text }}">{{ post.title }}</a></h2>
+                <p>{{ post.text|linebreaksbr }}</p>
+            </div>
+        {% endfor %}
+    </body>
+</html>
