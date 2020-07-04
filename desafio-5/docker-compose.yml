@@ -1,0 +1,17 @@
+
+
+
+version: '3'
+
+services:
+  web:
+    container_name: nestjs-sqlite
+    build:
+      dockerfile: Dockerfile
+    volumes:
+      - .:/code
+      - .db_data/db.sqlite3:/db.sqlite3
+    expose:
+      - "3000"
+    ports:
+      - "3000:3000"
