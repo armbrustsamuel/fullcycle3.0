@@ -1,11 +1,11 @@
 # Maratona Full Cycle 3.0
 - [Dockerhub](https://hub.docker.com/u/armbrustsamuel)
 
-- Challenges
-1. Hello Full Cycle utilizando Golang e Docker - [Link](https://maratona.fullcycle.com.br/desafios/desafios-novo/)
+## Challenges
+### 1. Hello Full Cycle utilizando Golang e Docker - [Link](https://maratona.fullcycle.com.br/desafios/desafios-novo/)
 - [Code](https://github.com/armbrustsamuel/fullcycle3.0/tree/master/desafio-1)
 
-2. Hello Full Cycle utilizando Buffalo - [Link](https://maratona.fullcycle.com.br/desafios/hello-world-utilizando-golang-e-buffalo/)
+### 2. Hello Full Cycle utilizando Buffalo - [Link](https://maratona.fullcycle.com.br/desafios/hello-world-utilizando-golang-e-buffalo/)
 - [Code](https://github.com/armbrustsamuel/fullcycle3.0/tree/master/desafio-2)
 
 - Requirements
@@ -13,7 +13,7 @@
 buffalo new <app-name>
 ```
 
-3. Endpoint serverless que realiza uma operação de soma - [Link](https://maratona.fullcycle.com.br/desafios/endpoint-serverless-que-realiza-uma-operacao-de-so/)
+### 3. Endpoint serverless que realiza uma operação de soma - [Link](https://maratona.fullcycle.com.br/desafios/endpoint-serverless-que-realiza-uma-operacao-de-so/)
 - [Code](https://github.com/armbrustsamuel/fullcycle3.0/tree/master/desafio-3)
 
 - Requirements
@@ -56,7 +56,7 @@ return {
   };
 ```
 
-4. Listagem das lives com Django e SQLite - [Link](https://maratona.fullcycle.com.br/desafios/listagem-das-lives-com-django-e-sqlite/)
+### 4. Listagem das lives com Django e SQLite - [Link](https://maratona.fullcycle.com.br/desafios/listagem-das-lives-com-django-e-sqlite/)
 - [Code](https://github.com/armbrustsamuel/fullcycle3.0/tree/master/desafio-4/myproject)
 
 > Holy Cow!
@@ -82,18 +82,18 @@ CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
 ```
 
 
-5. Endpoint com a programação das aulas com Nest.js e SQLite - [Link](https://maratona.fullcycle.com.br/desafios/endpoint-com-programacao-das-lives-com-nestjs-e-sq/)
+### 5. Endpoint com a programação das aulas com Nest.js e SQLite - [Link](https://maratona.fullcycle.com.br/desafios/endpoint-com-programacao-das-lives-com-nestjs-e-sq/)
 - [Code](https://github.com/armbrustsamuel/fullcycle3.0/tree/master/desafio-5)
 
-### Setup
+#### Setup
 [link](https://docs.nestjs.com/)
 
-### Helpful documentation about docker and nestjs
+#### Helpful documentation about docker and nestjs
 [link](https://medium.com/better-programming/part-7-deploy-backend-nestjs-docker-docker-compose-2429c0b6aa9c)
 
-### Helpful documentation about HBS view
+#### Helpful documentation about HBS view
 [link](https://github.com/fischeversenker/nestjs-test/blob/master/views/students.hbs)
 
-### Database ORM
+#### Database ORM
 [link](https://docs.nestjs.com/techniques/database)
 
